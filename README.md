@@ -35,7 +35,7 @@ This is a simple **Book Management System** built as part of Day 4 of the 30-Day
     ```
 
 ## Example usage
-    ```mathematica
+    ```
     1. Add Book
     2. List Books
     3. Search Books
