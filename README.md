@@ -51,3 +51,13 @@ This is a simple **Book Management System** built as part of Day 4 of the 30-Day
     ```
 
 
+## Technologies Used
+- Rust
+- Cargo (Rust's package manager)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
+- [Rust Standard Library Documentation](https://doc.rust-lang.org/std/)
